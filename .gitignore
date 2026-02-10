@@ -10,3 +10,6 @@ storage_layer/wordbank/__pycache__/WordBank.cpython-313.pyc
 storage_layer/__pycache__/GameHistory_storage.cpython-313.pyc
 storage_layer/__pycache__/GameHistory.cpython-313.pyc
 Programming Assignment 6.pdf
+.DS_Store
+storage_layer/.DS_Store
+storage_layer/.DS_Store
